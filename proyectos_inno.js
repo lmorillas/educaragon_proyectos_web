@@ -6993,7 +6993,7 @@
         "temas": "Psicomotricidad"
     }],
     "types": {
-        "Type": {"label": "Proyecto" ,
+        "item": {"label": "Proyecto" ,
         "plurallabel": "Proyectos"}
     }
 }

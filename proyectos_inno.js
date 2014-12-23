@@ -4314,7 +4314,7 @@
     }, {
         "latlon": "42.0347585,0.1326815",
         "url": "263&idTipo=11&pag=6",
-        "curso": "2003-2004",
+        "curso": "2003/2004",
         "centro": "C.P. \"Pedro I\" de Barbastro (Huesca)",
         "coord": "M\u00aa Asunci\u00f3n Pu\u00e9rtolas Mayayo",
         "label": "PI/04/01 Corre, corre, que te pillo... El patio de recreo: un espacio educativo",
@@ -4618,7 +4618,7 @@
     }, {
         "latlon": "41.9101603,0.1958593",
         "url": "291&idTipo=11&pag=7",
-        "curso": "2003-2004",
+        "curso": "2003/2004",
         "centro": "C.P. Joaqu\u00edn Costa de Moz\u00f3n (Huesca)",
         "coord": "Isabel Rodr\u00edguez Bescos",
         "label": "PI/04/12  Comunidades de Aprendizaje: Un modelo educativo intercultural",
@@ -6991,5 +6991,9 @@
         "coord": "Rafael Rosell\u00f3 Vega",
         "label": "PI/02/09 Importancia de la verbalizaci\u00f3n y otro tipo de representaciones en la adquisici\u00f3n del esquema corporal y de las conductas perceptivo-motrices en edades tempranas",
         "temas": "Psicomotricidad"
-    }]
+    }],
+    "types": {
+        "Type": {"label": "Proyecto" ,
+        "plurallabel": "Proyectos"}
+    }
 }
